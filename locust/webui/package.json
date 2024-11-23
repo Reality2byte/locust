@@ -44,7 +44,7 @@
     "@mui/icons-material": "^5.14.9",
     "@mui/material": "^5.14.10",
     "@reduxjs/toolkit": "^2.2.6",
-    "@types/react": "^18.0.28",
+    "@types/react": "^18.3.12",
     "@types/react-dom": "^18.0.11",
     "@types/react-redux": "^7.1.25",
     "@vitejs/plugin-react-swc": "^3.7.0",
